@@ -115,8 +115,7 @@ Or import the problems into your Jupyter notebook for interactive learning.
 
 ## Recommendation
 Once you complete these 150 problems:
-- Start exploring **Pandas** for data manipulation https://github.com/BalajiKudumu/Numpy-Pandas
-- Use **NumPy** for numerical operations https://github.com/BalajiKudumu/Numpy-Pandas
+- Start exploring  **NumPy** & **Pandas** for data manipulation https://github.com/BalajiKudumu/Numpy-Pandas
 - Visualize with **Matplotlib** or **Seaborn** https://github.com/BalajiKudumu/Data-Visualization-using-python-seaborn-plotly-cufflinks
 - Learn **Scikit-learn** for machine learning https://github.com/BalajiKudumu/Machine-Learning-Algorithms-Supervised-and-unsupervised
 - Hyperparameter-Optimization https://github.com/BalajiKudumu/Hyperparameter-Optimization
@@ -126,6 +125,8 @@ Once you complete these 150 problems:
 
 **Happy coding and learning Python for Data Science!**
 
+## Follow Me on GitHub  
+Follow me for **Data Science projects, eBooks, documentation, and collaboration opportunities** — explore more at [**github.com/BalajiKudumu**](https://github.com/BalajiKudumu).
 
 ## Contact
 
