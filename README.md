@@ -127,13 +127,15 @@ Once you complete these 150 problems:
 **Happy coding and learning Python for Data Science!**
 
 
-## 📬 Contact
+## Contact
 
 Maintained by **Balaji Kudumu**  
+Email: **balaji.kudumu1997@gmail.com**
+
 If you use this project in your research, please give appropriate credit.
 
 ---
 
-## 📄 License
+## License
 
 MIT License - see `LICENSE` file for details.
